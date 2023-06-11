@@ -38,9 +38,9 @@ GROUP BY name, gender
 HAVING count > 1;
 ```
 ## OUTPUT:
-Original Table:
+### Original Table:  
 ![image](https://github.com/Rithigasri/DBMS-EXP5/assets/93427256/a8564e79-d539-4e1c-8a96-f4f289fed773)
-Duplicate data:
+#### Duplicate data:  
 ![image](https://github.com/Rithigasri/DBMS-EXP5/assets/93427256/4079865c-c012-4873-a941-64f5f7f5b38b)
 ## RESULT:
 SQL query to fetch duplicate records having matching data in some fields of a table was successful done.
